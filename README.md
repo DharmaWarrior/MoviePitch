@@ -1,21 +1,34 @@
-# co36049518d3ba50f5be20816
+# <img src="https://github.com/DharmaWarrior/MoviePitch/assets/97218268/510f4c34-cad5-41bd-ba99-2aee76615497" width="25" height="25">MoviePitch
+MoviePitch is a web application that utilizes OpenAI's text-DaVinci-003 model and API to generate suitable movie posters, titles, synopses, and expected cast based on user-provided movie outlines.
 
-Quick start:
+## Features
+Generate visually appealing movie posters, captivating titles, compelling synopses, and suggested cast members.
+Provide users with a comprehensive movie pitch package to visualize their movie ideas.
+Seamlessly integrate the generated content into the web application for easy access and reference.
+Enhance user experience with an intuitive user interface and interactive elements.
+Assist filmmakers and storytellers in refining their movie pitches and enhancing their storytelling abilities.
 
-```
-$ npm install
-$ npm start
-````
+## Demo
+Check out the short clip below to see MoviePitch in action:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+https://github.com/DharmaWarrior/MoviePitch/assets/97218268/30541a9d-9c16-44b6-9d3a-b1a9660bfd2c
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+
+## Usage
+Provide a brief outline of your movie idea.
+MoviePitch will generate a suitable movie poster, title, synopsis, and expected cast.
+Explore the generated content and refine your movie pitch.
+
+## Installation
+The steps to run:
+1. `git clone https://github.com/DharmaWarrior/MoviePitch` - git clone the repo and `cd` in the folder
+2. `npm install` - this will build the custom src file as a package 
+3. `npm start` - it will run the project on local host.
+
+
+## Contributing
+Contributions are welcome!
 
 Happy Coding!
